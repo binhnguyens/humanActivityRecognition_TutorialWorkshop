@@ -1,4 +1,4 @@
-# Instructions for Python Tutorial 1 folder
+# 1. Instructions for Python Tutorial 1 folder
 
 Please download the Python Tutorial 1 folder. This folder is the template I used.
 
@@ -20,7 +20,7 @@ Please view the recorded tutorial here: https://youtu.be/b0Yn1c-EDqo
 
 
 
-# Instructions for Tetra Workshop Material folder
+# 2. Instructions for Tetra Workshop Material folder
 
 ## Overview
 In this workshop, we will go over the follow topics. 
