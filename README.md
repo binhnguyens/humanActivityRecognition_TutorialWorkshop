@@ -1,6 +1,4 @@
-# python_public_HAR
-
-## Python Tutorial 1
+## Instructions for Python Tutorial 1 folder
 
 Please download the Python Tutorial 1 folder. This folder is the template I used.
 
