@@ -32,6 +32,8 @@ In this workshop, we will go over the follow topics.
 
 The expected outcome for this workshop is for students to learn what HAR and ML is. Students will understand the steps to take to conduct a machine learning analysis in Python. To do this, I will create a theoretical foundation. Followed by the theory, I will go over code that I have prepared, outlining the steps to take for a ML analysis. The code and recording will be given via my Github, allowing students to follow the code during the lesson and attempt for themselves in their own time.
 
+## Instructions
+
 Please download this Tetra Workshop Material folder. This folder is the template I used.
 
 Included in the folder is 
