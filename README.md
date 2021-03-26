@@ -49,5 +49,7 @@ In result, your folder should look like
 
 The powerpoint is used to give foundation and understanding while the ipynb is used as the example.
 
+Please review the workshop here: https://drive.google.com/file/d/1cgy7S935_-UU7OiYBLcoW4d724KjedEr/view?usp=sharing
+
 
 
