@@ -1,3 +1,6 @@
+# TUTORIAL FOR FOURTH YEAR ENGINEER STUDENTS AT TMU 
+Get familiar with Python and Machine learning
+
 # 1. Instructions for Python Tutorial 1 folder
 
 Please download the Python Tutorial 1 folder. This folder is the template I used.
